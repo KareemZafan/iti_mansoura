@@ -1,5 +1,5 @@
 #include <iosream.h>
-#incude <math.h> 
+#include <math.h> 
 
 int main (void){
 
