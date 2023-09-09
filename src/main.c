@@ -6,7 +6,8 @@ int main (void){
  printf("I'm Dina /n Hello Together");
  int a = 1;
  int b = 15 ;
-
+  
+ int l ; 
  printf("\nSum of %d and %d = %d\n", a , b , a + b);
 
 return 0 ;
