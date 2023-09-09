@@ -1,13 +1,13 @@
-#include <iosream.h>
-#include <math.h> 
+#include <stdio.h>
+#include <math.h>
 
 int main (void){
+printf("I'm Dina");
+ printf("Hello Together") ;
+ int a = 1;
+ int b = 15 ;
 
- printf("Hello Together") ; 
- int a = 1; 
- int b = 15 ; 
- 
- printf("\nSquare Root of %d and %d = %d\n", a , b , sqrt(a + b)); 
+ printf("\nSum of %d and %d = %d\n", a , b , a + b);
 
-return 0 ; 
+return 0 ;
 }
