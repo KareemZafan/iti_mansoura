@@ -3,7 +3,9 @@
 
 int main (void){
 
- printf("I'm Dina /n Hello Together");
+
+ printf("I'm Dina /n Hello Together, Dina & Kareem");
+
  int a = 1;
  int b = 15 ;
 
