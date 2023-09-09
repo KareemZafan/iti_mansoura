@@ -2,6 +2,7 @@
 #include <math.h>
 
 int main (void){
+
  printf("I'm Dina /n Hello Together");
  int a = 1;
  int b = 15 ;

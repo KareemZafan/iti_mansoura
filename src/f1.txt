@@ -1,1 +1,8 @@
-Good Morning Hello together
+-- Code for div add mul and sub 
+
+
+-- code for lograthims 
+
+
+
+-- code for square root 
